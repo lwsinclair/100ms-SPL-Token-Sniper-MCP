@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/monostate-100ms-spl-token-sniper-mcp-badge.png)](https://mseep.ai/app/monostate-100ms-spl-token-sniper-mcp)
+
 # 100ms Raydium Sniper MCP
 
 A high-performance tool for token sniping on Raydium DEX with multi-region support and Claude AI integration.
